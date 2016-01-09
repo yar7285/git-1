@@ -1,1 +1,2 @@
-prin("Hello fogg")
+print("Hello fogg")
+print("Hi Hui")
