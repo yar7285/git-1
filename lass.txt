@@ -1,1 +1,1 @@
-prin("Hello fogg")
+prin("Hello fogg:")
