@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-prin("Hello fogg:")
-print("Hi Hui")
->>>>>>> feature/dog
